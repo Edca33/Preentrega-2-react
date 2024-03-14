@@ -1,0 +1,17 @@
+.containerCart .cartIcon {
+  font-size: 40px;
+  background-image: radial-gradient(circle at 50% -3.03%, #ff7fbc 0, #ff76c1 10%, #f96dc7 20%, #e964cd 30%, #d65cd3 40%, #be55d8 50%, #a250dd 60%, #7f4fe3 70%, #4f50e8 80%, #0051ec 90%, #0054ef 100%);
+  cursor: pointer;
+}
+.cartNumber{
+position:absolute;
+font-size: 23px;
+font-weight: 500;
+top: -25px;
+right: -10px;
+color: #5f5e60;
+}
+.containerCart{
+  position: relative;
+
+}
